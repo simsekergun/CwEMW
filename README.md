@@ -3,6 +3,6 @@
 This work has been submitted IET.
 Details will be provided later. 
 
-![Dataset: X](http://url/to/img.png](https://github.com/simsekergun/CwEMW/blob/main/figures/dataset.png)
+![Dataset: X](https://github.com/simsekergun/CwEMW/blob/main/figures/dataset.png)
 
 Dateset: y (classes: 0, 1, 2, ..., 9)
